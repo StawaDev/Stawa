@@ -26,3 +26,6 @@ $onlyIf[$getUserVar[search]==online;]
 $setUserVar[search;off]
 Nice, you get in your neighbor home!
 ```
+
+QUick Notes:
+- You can add some rewards to Bank and Home!
