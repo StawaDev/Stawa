@@ -1,0 +1,6 @@
+Global Balance:
+
+$title[$username's Balance]
+$description[
+Money: $getVar[money;$authorID]
+]
