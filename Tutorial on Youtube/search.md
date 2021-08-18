@@ -29,3 +29,6 @@ Nice, you get in your neighbor home!
 
 Quick Notes:
 - You can add some rewards to Bank and Home!
+
+## Confused? Please Go Watch This Video
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=wrZxctulIyU&t=189s)
