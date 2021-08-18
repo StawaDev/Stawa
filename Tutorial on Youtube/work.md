@@ -20,3 +20,7 @@ $description[You got $$random[10;20]]
 $color[11FF00]
 $setUserVar[money;$sum[$getUserVar[money];$random[10;20]]]
 ```
+
+
+## Confused? Please Go Watch This Video
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PDIpsCm_mng&t=4s)
