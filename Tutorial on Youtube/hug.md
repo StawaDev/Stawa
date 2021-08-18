@@ -29,4 +29,5 @@ $onlyIf[$getVar[once;$authorID]!=claimed;]
 - Variable Name: huglvl
 - Variable Value: 0
 
-## Confused? Please Go Watch This Video [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmk62UFOAcHxWshM1LNgFw)
+## Confused? Please Go Watch This Video
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzmk62UFOAcHxWshM1LNgFw)
