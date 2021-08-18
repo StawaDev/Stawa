@@ -27,5 +27,5 @@ $setUserVar[search;off]
 Nice, you get in your neighbor home!
 ```
 
-QUick Notes:
+Quick Notes:
 - You can add some rewards to Bank and Home!
