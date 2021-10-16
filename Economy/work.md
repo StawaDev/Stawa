@@ -21,4 +21,4 @@ $authorID];$random[5;20]];$authorID]
 - Global Balance means everyserver will be show with the same amounts and Local Balance means everysingle server will be show different amounts
 
 ## Next Step
-https://github.com/StawaDev/Stawa/edit/main/Economy/balance.md
+https://github.com/StawaDev/Stawa/blob/main/Economy/balance.md
